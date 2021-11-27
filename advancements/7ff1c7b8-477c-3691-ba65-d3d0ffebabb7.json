@@ -1546,6 +1546,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2021-11-27 10:44:25 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-06-01 10:41:11 +0800"
@@ -1702,9 +1708,11 @@
       "minecraft:forest": "2021-05-28 12:36:10 +0800",
       "minecraft:mountains": "2021-05-30 00:53:25 +0800",
       "minecraft:taiga": "2021-05-28 15:04:25 +0800",
+      "minecraft:desert_hills": "2021-11-27 23:06:16 +0800",
       "minecraft:deep_cold_ocean": "2021-05-30 00:57:59 +0800",
       "minecraft:taiga_hills": "2021-05-30 13:49:34 +0800",
       "minecraft:desert": "2021-05-28 12:34:50 +0800",
+      "minecraft:deep_frozen_ocean": "2021-11-27 22:53:57 +0800",
       "minecraft:savanna_plateau": "2021-06-02 17:18:57 +0800",
       "minecraft:beach": "2021-05-28 17:43:55 +0800",
       "minecraft:river": "2021-05-28 12:35:29 +0800",
@@ -2854,6 +2862,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2021-05-31 21:43:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2021-11-27 23:07:58 +0800"
     },
     "done": true
   },
