@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2021-12-07 01:12:33 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-05-28 13:27:07 +0800"
@@ -1744,6 +1750,7 @@
       "minecraft:old_growth_pine_taiga": "2021-11-23 14:10:40 +0800",
       "minecraft:taiga": "2021-05-30 13:49:34 +0800",
       "minecraft:deep_ocean": "2021-12-03 03:44:02 +0800",
+      "minecraft:birch_forest": "2021-12-08 01:35:30 +0800",
       "minecraft:windswept_hills": "2021-05-30 00:53:25 +0800",
       "minecraft:savanna_plateau": "2021-06-02 17:18:57 +0800",
       "minecraft:beach": "2021-05-28 17:43:55 +0800",
@@ -2588,6 +2595,7 @@
       "bread": "2021-05-29 19:11:04 +0800",
       "rotten_flesh": "2021-05-28 12:41:10 +0800",
       "cookie": "2021-06-30 11:22:52 +0800",
+      "suspicious_stew": "2021-12-07 00:43:40 +0800",
       "salmon": "2021-06-05 23:31:42 +0800",
       "melon_slice": "2021-06-03 18:25:24 +0800",
       "cooked_chicken": "2021-05-28 23:42:16 +0800",
@@ -3889,6 +3897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2021-12-07 00:35:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/honey_block_slide": {
     "criteria": {
       "honey_block_slide": "2021-06-02 16:39:41 +0800"
@@ -3922,6 +3936,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2021-06-03 14:42:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2021-12-07 01:12:33 +0800"
     },
     "done": true
   },
@@ -4288,6 +4308,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2021-05-28 12:51:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2021-12-07 01:12:33 +0800"
     },
     "done": true
   },
