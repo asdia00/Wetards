@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2022-08-07 00:10:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2021-05-28 13:27:07 +0800"
@@ -545,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2022-08-07 00:10:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2022-06-01 23:51:52 +0800"
@@ -758,6 +770,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-06-01 10:41:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2022-08-06 18:00:13 +0800"
     },
     "done": true
   },
@@ -3374,6 +3392,7 @@
       "minecraft:cold_ocean": "2021-05-28 18:21:19 +0800",
       "minecraft:forest": "2021-05-28 17:41:20 +0800",
       "minecraft:deep_cold_ocean": "2021-05-30 00:57:59 +0800",
+      "minecraft:ice_spikes": "2022-08-07 00:03:02 +0800",
       "minecraft:frozen_ocean": "2021-12-08 23:21:32 +0800",
       "minecraft:desert": "2021-05-28 12:34:50 +0800",
       "minecraft:deep_frozen_ocean": "2021-11-27 22:53:57 +0800",
